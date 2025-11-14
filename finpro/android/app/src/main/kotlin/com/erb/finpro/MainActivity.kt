@@ -1,4 +1,4 @@
-package com.erb.finpro
+package com.erb.finprotest
 
 import io.flutter.embedding.android.FlutterActivity
 
